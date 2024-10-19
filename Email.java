@@ -12,6 +12,7 @@ public class Email {
 	private String fname;
 	private String lname;
 	private String dept;
+	private String dept;
 	private String email;
 	private String password;
 	private int mailCapacity = 500;
