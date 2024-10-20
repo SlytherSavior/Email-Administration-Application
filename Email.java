@@ -14,6 +14,9 @@ public class Email {
 	private String dept;
 	private String dept;
 	private String email;
+	;
+	private String dept;
+	private String email;
 	private String password;
 	private int mailCapacity = 500;
 	private String alter_email;
