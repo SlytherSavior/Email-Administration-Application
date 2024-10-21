@@ -6,7 +6,7 @@ public class EmailApp {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
-		
+		//
 		// Creating a new employee (i.e. an object of the Email class)
 		Email em1 = new Email("John", "Doe");
 		
